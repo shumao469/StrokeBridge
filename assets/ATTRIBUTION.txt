@@ -1,0 +1,20 @@
+Anatomical illustrations are educational schematics, not patient images.
+
+Heart: Servier Medical Art, Cardiac hypertrophy - Normal.
+Source page: https://smart.servier.com/smart_image/smart-heart/
+Image: https://smart.servier.com/wp-content/uploads/2016/10/Coeur_A.png
+Brain: Servier Medical Art, Brain.
+Source page: https://smart.servier.com/smart_image/brain-area/
+Image: https://smart.servier.com/wp-content/uploads/2016/10/cerveau_zones2.png
+
+Images provided by Servier Medical Art (https://smart.servier.com/),
+licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+Source and licence checked 25 October 2026:
+https://smart.servier.com/terms-of-use/
+https://smart.servier.com/using-smart-images-what-you-can-do/
+
+Adaptations in Figure 1: scaling, placement and viewport crop of the heart
+inset; added vector labels and connections. No claim of Servier endorsement.
+These images are not used as a project logo or as evidence of clinical data.
+All algorithmic connections, scientific plots and typography are editable
+vector objects. Figure 1 is a hybrid vector/raster composite, not pure vector.

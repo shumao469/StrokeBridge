@@ -1,0 +1,9 @@
+method,baseline,metric,delta,lower,upper,confidence,scope
+E1_VN,E1,AP,4.5774316089097766e-05,-0.0050545257858073,0.0048236011345001,0.95,"Exploratory,not confirmatory or causal"
+E2_VN,E2,AP,0.0417931170450333,0.0193686061427494,0.0693225428417434,0.95,"Exploratory,not confirmatory or causal"
+E1_VNM,E1_VN,AP,-0.0034663109454491,-0.018466121402782,0.0071838258890034,0.95,"Exploratory,not confirmatory or causal"
+E2_VNM,E2_VN,AP,0.0006296119314134,-0.0097681536221853,0.0106410482901569,0.95,"Exploratory,not confirmatory or causal"
+E1_VN,E1,Brier,0.0002607385581403,-0.000456025111979,0.0009894388214202,0.95,"Exploratory,not confirmatory or causal"
+E2_VN,E2,Brier,-0.0047441045928634,-0.0071853380883313,-0.0026154908344318,0.95,"Exploratory,not confirmatory or causal"
+E1_VNM,E1_VN,Brier,-8.01414252850699e-06,-0.0007074204638017,0.0007510319332745,0.95,"Exploratory,not confirmatory or causal"
+E2_VNM,E2_VN,Brier,-0.0002608277991866,-0.0015917962660498,0.0009819624533436,0.95,"Exploratory,not confirmatory or causal"

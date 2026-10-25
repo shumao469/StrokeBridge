@@ -1,0 +1,601 @@
+{
+  "release": "StrokeBridge-research-closeout-20261025",
+  "scope": "Read-only original source inventory; no expired autorun entry point is enabled by this release.",
+  "root_relative_to_workspace": true,
+  "files": [
+    {
+      "phase": "phase_A17R_20261021_v1",
+      "path": "unified_project/runs/phase_A17R_20261021_v1/code/a17r_acquire_left_atrial_weights.ps1",
+      "bytes": 6259,
+      "sha256": "2bafed75d5ab7d54778b1c305f951bd84618305c07c81e1ccab7b62a9ccb6b38"
+    },
+    {
+      "phase": "phase_A17R_20261021_v1",
+      "path": "unified_project/runs/phase_A17R_20261021_v1/code/a17r_common.py",
+      "bytes": 1839,
+      "sha256": "8f8e396d9eff6075c2c137c24ae4663aad7f61e082251f94198a19f86aa90642"
+    },
+    {
+      "phase": "phase_A17R_20261021_v1",
+      "path": "unified_project/runs/phase_A17R_20261021_v1/code/a17r_driver.py",
+      "bytes": 857,
+      "sha256": "f007e9824709c18d2d0fabb35b4feb9b17087143e4d0ed21fafeae8a5bbe0ae9"
+    },
+    {
+      "phase": "phase_A17R_20261021_v1",
+      "path": "unified_project/runs/phase_A17R_20261021_v1/code/a17r_features.py",
+      "bytes": 12450,
+      "sha256": "a095e9dd030b90486e19ae643bae0de064fd1e2d0ab0ff34a4ab10dfe28ac200"
+    },
+    {
+      "phase": "phase_A17R_20261021_v1",
+      "path": "unified_project/runs/phase_A17R_20261021_v1/code/a17r_finalize_delivery.py",
+      "bytes": 4041,
+      "sha256": "278369d4d4aa37b00b770d25352e9a9c98a7c63e2bc1ec6c76225405132badb8"
+    },
+    {
+      "phase": "phase_A17R_20261021_v1",
+      "path": "unified_project/runs/phase_A17R_20261021_v1/code/a17r_freeze_launch.py",
+      "bytes": 3207,
+      "sha256": "b8d385b2de6e81aa4ce77ccdc7e928becb798c5e6385f78c39e49fd1b1557652"
+    },
+    {
+      "phase": "phase_A17R_20261021_v1",
+      "path": "unified_project/runs/phase_A17R_20261021_v1/code/a17r_independent_completion_audit.py",
+      "bytes": 6403,
+      "sha256": "c66f5070942d562d1d9a4aa5b6ed2a780d8e6159a1696e25b298a156a1375871"
+    },
+    {
+      "phase": "phase_A17R_20261021_v1",
+      "path": "unified_project/runs/phase_A17R_20261021_v1/code/a17r_left_atrial_source_audit.ps1",
+      "bytes": 3048,
+      "sha256": "68199730cb7cdd8bac128f28610e14af8ba7a3746e3c6d434b44d4c8048caf49"
+    },
+    {
+      "phase": "phase_A17R_20261021_v1",
+      "path": "unified_project/runs/phase_A17R_20261021_v1/code/a17r_model_analysis.py",
+      "bytes": 16216,
+      "sha256": "dd6be04bb8f01c59bb3ceda42f8ee1d8572888920ce8ad9e6f6f3c24a86c149f"
+    },
+    {
+      "phase": "phase_A17R_20261021_v1",
+      "path": "unified_project/runs/phase_A17R_20261021_v1/code/a17r_protocol_20261021.txt",
+      "bytes": 6467,
+      "sha256": "8e1512271e03f0eaf003e7edce9362a38ce9c19066e6dbbd5e785ce1a12979c2"
+    },
+    {
+      "phase": "phase_A17R_20261021_v1",
+      "path": "unified_project/runs/phase_A17R_20261021_v1/code/a17r_readability_export.py",
+      "bytes": 2544,
+      "sha256": "491e7dff879f26386df979072cd4a9acab4cfe04563a88a4f1736c92ed7e6513"
+    },
+    {
+      "phase": "phase_A17R_20261021_v1",
+      "path": "unified_project/runs/phase_A17R_20261021_v1/code/a17r_resume_after_environment.py",
+      "bytes": 3128,
+      "sha256": "bbfd2f7e7a93e667c9726bd94b7f7f8a08f9f49976df8f77022268ca5294f800"
+    },
+    {
+      "phase": "phase_A17R_20261021_v1",
+      "path": "unified_project/runs/phase_A17R_20261021_v1/code/a17r_verify_left_atrial_weights.ps1",
+      "bytes": 2263,
+      "sha256": "c357d4a056a9ef8529cd4f2dc2ac811999f9fff788cc271ec1280513c5f33078"
+    },
+    {
+      "phase": "phase_A17R_20261021_v1",
+      "path": "unified_project/runs/phase_A17R_20261021_v1/code/acquire_a3.py",
+      "bytes": 4138,
+      "sha256": "9bb24a20bd5547e26187ab4ebac7f7425d3fb2cea34342e812e30176e87a067a"
+    },
+    {
+      "phase": "phase_A17R_20261021_v1",
+      "path": "unified_project/runs/phase_A17R_20261021_v1/code/ecgfm_frozen.py",
+      "bytes": 6578,
+      "sha256": "2a4a71b5476688f150fa55f3056c63e7e9dac9d4ac50760a66d0327a15c66e77"
+    },
+    {
+      "phase": "phase_A17R_20261021_v1",
+      "path": "unified_project/runs/phase_A17R_20261021_v1/code/test_a17r_recovery_contract.py",
+      "bytes": 2896,
+      "sha256": "e2b305784a90da9dbc8b68cc48bc9abe504ad9c45389e8019d78ae9b5ec7dc13"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/a24_shared.py",
+      "bytes": 2388,
+      "sha256": "9149d99c68979ee3a7bfd2ac353574708f8e0e24092533d4aa51cb3bb60169f5"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/a24_wsl_runtime_adapter.py",
+      "bytes": 3217,
+      "sha256": "c511afbf85b9653cf71937514aee08a5ec58fa596d1b77be364e2c7f16f46f96"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/archive_A24_figure_policy_change.py",
+      "bytes": 2780,
+      "sha256": "dac1645df800fbcd09e963601e0534442c7d015fce19c2d0f4f3c3280ea94109"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/audit_E_cpu_stop.py",
+      "bytes": 4138,
+      "sha256": "b3e0ddeb8361d601c79db8cee1ddc1cc50e31c81832c02953a1be3c05ed1694c"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/audit_E_cpu8h_stop.py",
+      "bytes": 2644,
+      "sha256": "35fea1914403c3a2aecf23dde3fe1e0ae1caf375ee8a331749c6eabf3791c19c"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/audit_E_helper_stop.py",
+      "bytes": 2459,
+      "sha256": "015ae39e42a7d66a82f81ddf9cebf5bef542e8c1c8948acc0a124b2f41319120"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/audit_E_results.py",
+      "bytes": 4929,
+      "sha256": "f523c680ed3a6e6789a3f3e7fb9c48380d0754e763d88252698db7f11cd94aaa"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/audit_E_stop.py",
+      "bytes": 4624,
+      "sha256": "0f0f35a2311cd4535531ed802ee97a652fb166b78fa0ced8005f178ec3ce0e2e"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/audit_N_recovery.py",
+      "bytes": 7779,
+      "sha256": "05142d4a8fb8887476c43c0169ec59dc090182f53a0af82b4ee18285682add44"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/audit_sources.py",
+      "bytes": 3474,
+      "sha256": "ac380ebf71dfa79f64758e7ea0541655aa559f76a8004c207182cc7387eabe63"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/autorun_tail.py",
+      "bytes": 3665,
+      "sha256": "eeb8163c35c7c5dea613df9fe2ce98e5a332947bc9ae19ee85f2e24507571919"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/build_A24_editable.mjs",
+      "bytes": 9554,
+      "sha256": "7f3ca8e8f0257c3016c6bbb4c1d1c5b0d3abdf7e2b6fb542d2bf6b9504c0f552"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/build_A24_figures.py",
+      "bytes": 33014,
+      "sha256": "7cc19fc0a27e4803e51c129aea9866a544b24ab6e2b622a0ac54e31b55424e37"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/closeout.py",
+      "bytes": 2768,
+      "sha256": "1c4b9df317a43d70281da32e8ee43ae465d71f9e8e381b47950f2105e0995898"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/diagnose_precision.py",
+      "bytes": 2748,
+      "sha256": "05c63f1b3894171e673160ec7f482edaaf234cae91c639d762d110f0b7440465"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/E_helper_contracts.py",
+      "bytes": 961,
+      "sha256": "ad122c9e01ff03eed3c1bf3cb9182187833e225030a4b4b26445f1e99e1ba70d"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/execute_E_cpu_once.py",
+      "bytes": 6618,
+      "sha256": "5f6ea5644154763256bbf5aa56e4da07749a0854bfb56f440698f7f29cb9c498"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/execute_E_cpu8h_corrected_once.py",
+      "bytes": 7499,
+      "sha256": "35827aa07a75e855e48fd6302a1ef16f0508df6ee438b93845dfd9aed21f3a31"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/execute_E_cpu8h_helperfix_v2.py",
+      "bytes": 10288,
+      "sha256": "2b0c400e5c68e1a0af642c75c8fe136eb038da190bb715baf23f6e90f85fa4a2"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/execute_E_cpu8h_once.py",
+      "bytes": 8333,
+      "sha256": "835d554e0f5dde0ea7377512898f1005f2bb065dac95b0054ce27773e3b264d7"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/execute_E_tail_recovery.py",
+      "bytes": 10986,
+      "sha256": "0b4a707c14c9181a543df297edcd61d80900128c65e9bd1a3526a1a688e0b479"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/execute_E_wsl_20261023_v2.py",
+      "bytes": 4877,
+      "sha256": "6c6b83622563b17f1f1fde9b06211fe0878d08f180875eb660e74a70e80767ab"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/execute_E_wsl_20261023.py",
+      "bytes": 17383,
+      "sha256": "f098890283579cb45eb2fb0eded8347676d98fbb981a433a1bf70d184ad72b34"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/extract_controls.py",
+      "bytes": 10783,
+      "sha256": "55e5e462b4ece3c35a7c082c9df73330bfda2453e4288211a5aa5d5b4f34bf39"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/fit_and_audit.py",
+      "bytes": 9595,
+      "sha256": "e82ea5f35f30258917de5cbafecdeba3d478beb0ecd32cc412771e9123436e43"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/group_A24_panels.py",
+      "bytes": 4190,
+      "sha256": "b6fcc190917724c2cb71186f09b39f5e17d7e8e3e61625d1c7f93f65ce0a8152"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/guard_CPU_preflight.ps1",
+      "bytes": 1795,
+      "sha256": "266e26fb4529c3791723e8266fc463fe0b1bf1b6b2c80f105022ee3d9073a546"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/guard_CPU8h_preflight.ps1",
+      "bytes": 1757,
+      "sha256": "0c78e1bc1cfa13da2f03606013b8450f022040640363726375bf801200d781bf"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/guard_N_recovery.ps1",
+      "bytes": 1730,
+      "sha256": "e0ac90533485c7b4f704e213085bd0b21b6531c6b7a7807f8b27a65fa5c6ac31"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/launch_A24_E_background.ps1",
+      "bytes": 2368,
+      "sha256": "64fea76eeee0addc17e31fb6ba6b709636d7a8562835d71011db0a5017a4e9f0"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/launch_A24_E_corrected_background.ps1",
+      "bytes": 2371,
+      "sha256": "63e45bc58dfbc5c931dd4de400c7f377207ffbc94f23d52de4740aa95dd59a89"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/negative_controls.py",
+      "bytes": 4593,
+      "sha256": "2ae15c45fac5e68d684d8744794770c8c3329614ff91b548045586445c868552"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/prepare_runtime.py",
+      "bytes": 4612,
+      "sha256": "0c9a816bf4b4c42f798563316cae7d4905bf8b792449f7efa69cab4da4984240"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/recover_N_once.py",
+      "bytes": 4731,
+      "sha256": "8e4eb3d2203d6c6e207b141783a199c24138b5a907d19f5f72941cf0fa4ec801"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/refit_uncertainty.py",
+      "bytes": 7204,
+      "sha256": "d4f83801675c49e9382125c91a15cb5380193e6c2935a4280919930003749e6e"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/restore_E_tail_once.py",
+      "bytes": 4060,
+      "sha256": "c1af45be1aa4571a59f7a0ef70205c4f9e6011baf4addc033f5d5e9ac3ac35c9"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/restore_E_weight_once.py",
+      "bytes": 4882,
+      "sha256": "7e2de70f330d22a537f8046526f11f921fd08c033dbe810fecd119a31e12e32d"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/review_A24_final_readonly.py",
+      "bytes": 6308,
+      "sha256": "6ef76f3281c947885c24e4f818da263efd6e1ab177d269a749ace50375f2b0e3"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/source_followup.py",
+      "bytes": 515,
+      "sha256": "79dfc3ac7364f7a5823e22dbfa7786357ae0db4975840c88ba68c512586a89d7"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/sync_A24_dashboard.py",
+      "bytes": 8470,
+      "sha256": "7829679aa3b05d1a1ede3a7dbff88f464e85d339385d7d6c983c286881878db3"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/test_E_checkpoint_contract.py",
+      "bytes": 1663,
+      "sha256": "23e9d09d34be71758081dc8b9f8d78d7506b3b5248cdb93475861066a05c92b2"
+    },
+    {
+      "phase": "phase_A24_20261021_v1",
+      "path": "unified_project/runs/phase_A24_20261021_v1/code/test_E_helper_contracts.py",
+      "bytes": 2728,
+      "sha256": "9774ce63cd9988725403c2f9459d4d182bff195ef06ad9f21b29da44fd00bc8d"
+    },
+    {
+      "phase": "phase_A25_20261023_v1",
+      "path": "unified_project/runs/phase_A25_20261023_v1/code/audit_local_rdb.py",
+      "bytes": 9392,
+      "sha256": "9668fb7a9cc6bee8956faa02cf0c653fad80a50d4e17a0736beee05f4f3a5a61"
+    },
+    {
+      "phase": "phase_A25_20261023_v1",
+      "path": "unified_project/runs/phase_A25_20261023_v1/code/audit_sources.py",
+      "bytes": 6665,
+      "sha256": "c897fa351e9a28de15c5d4a9c88de4848d50abcb27166555509ec7c8f9f1b09a"
+    },
+    {
+      "phase": "phase_A25_20261023_v1",
+      "path": "unified_project/runs/phase_A25_20261023_v1/code/common.py",
+      "bytes": 1650,
+      "sha256": "bc3879eddb3a4c281daee0e8a3517fe693680a4cbc3d10f6f4f20ef60d100eaa"
+    },
+    {
+      "phase": "phase_A25_20261023_v1",
+      "path": "unified_project/runs/phase_A25_20261023_v1/code/continuous_coordinate_audit.py",
+      "bytes": 4020,
+      "sha256": "285d4eb371be0802d64554be112b2949a95ead469215b1078293063176dc3e07"
+    },
+    {
+      "phase": "phase_A25_20261023_v1",
+      "path": "unified_project/runs/phase_A25_20261023_v1/code/intervals.py",
+      "bytes": 2603,
+      "sha256": "a16cb26e7e13f5815eb44fa02c22e972953478273fe1c0db5d477d6589f5e5c2"
+    },
+    {
+      "phase": "phase_A25_20261023_v1",
+      "path": "unified_project/runs/phase_A25_20261023_v1/code/measurement.py",
+      "bytes": 10378,
+      "sha256": "62f61e450ceddd4215c1c5add4889b1589d9300deb7fbabd3e2c6ca926d61b1b"
+    },
+    {
+      "phase": "phase_A25_20261023_v1",
+      "path": "unified_project/runs/phase_A25_20261023_v1/code/missingness.py",
+      "bytes": 14535,
+      "sha256": "a97e53d98db7c15d24afd45fec88df1a1a74a320b6d341ffcd6c1de891aa765e"
+    },
+    {
+      "phase": "phase_A25_20261023_v1",
+      "path": "unified_project/runs/phase_A25_20261023_v1/code/preflight_and_freeze.py",
+      "bytes": 3521,
+      "sha256": "fb6014c74b319cb2fcde0ff88d8d70ed03b1660cf6d224f61175f429b1e8a594"
+    },
+    {
+      "phase": "phase_A25_20261023_v1",
+      "path": "unified_project/runs/phase_A25_20261023_v1/code/refine_reference_audit.py",
+      "bytes": 6170,
+      "sha256": "0015c02cf150f16b6a00850428cba13c8c302205cda31479d06aea5d6ddf4b2c"
+    },
+    {
+      "phase": "phase_A25_20261023_v1",
+      "path": "unified_project/runs/phase_A25_20261023_v1/code/supervise.py",
+      "bytes": 3919,
+      "sha256": "525f2f71ec47e35ae8ebadcd98e345ed69fd76a50e67b3a3c1da5b9231169e2d"
+    },
+    {
+      "phase": "phase_A26_20261024_v1",
+      "path": "unified_project/runs/phase_A26_20261024_v1/code/a26_method.py",
+      "bytes": 21384,
+      "sha256": "7e19b1d6cfbbd4c336940a049918edee01b7684fb29ee537d687fd37b9f01eb5"
+    },
+    {
+      "phase": "phase_A26_20261024_v1",
+      "path": "unified_project/runs/phase_A26_20261024_v1/code/metadata_audit.py",
+      "bytes": 4001,
+      "sha256": "66ceb7130fd9ac6fdb3de7fe652dfd014c00e25690151396dc94a8ba5ff7bc7e"
+    },
+    {
+      "phase": "phase_A26_20261024_v1",
+      "path": "unified_project/runs/phase_A26_20261024_v1/code/post_review.py",
+      "bytes": 4859,
+      "sha256": "67f2b15422f92b201f4af9dabddb7ee1c4cee9f2bec85248fee960c910d7302d"
+    },
+    {
+      "phase": "phase_A26_20261024_v1",
+      "path": "unified_project/runs/phase_A26_20261024_v1/code/range_audit.py",
+      "bytes": 6721,
+      "sha256": "6495c85898a737c4efc52eb3ae589094e7808b17c68a1759c30007fda1d6ed45"
+    },
+    {
+      "phase": "phase_A26_20261024_v1",
+      "path": "unified_project/runs/phase_A26_20261024_v1/code/reference_audit.py",
+      "bytes": 3020,
+      "sha256": "d737e72390642aef79bc441f2ecabae260b6821fc82dfc70a900b4194a2fee31"
+    },
+    {
+      "phase": "phase_A26_20261024_v1",
+      "path": "unified_project/runs/phase_A26_20261024_v1/code/source_audit.py",
+      "bytes": 6656,
+      "sha256": "94749ce072ff51a3b1e9862193f036722e83051b68f1d319741617703c64cd43"
+    },
+    {
+      "phase": "phase_A27_20261024_v1",
+      "path": "unified_project/runs/phase_A27_20261024_v1/code/a27_attribution.py",
+      "bytes": 8772,
+      "sha256": "6052e2f15ef8c7b1b4a74fba1b15d0079801919f1b5e69828c6d610880e224e9"
+    },
+    {
+      "phase": "phase_A27_20261024_v1",
+      "path": "unified_project/runs/phase_A27_20261024_v1/code/a27_method.py",
+      "bytes": 22441,
+      "sha256": "f2a2994e22fa5884f9d9cbafe5aae0a8781e2f1ad9f00e3c752e7ea9961031cd"
+    },
+    {
+      "phase": "phase_A27_20261024_v1",
+      "path": "unified_project/runs/phase_A27_20261024_v1/code/a27_post_review.py",
+      "bytes": 5045,
+      "sha256": "22694c3c61db0eb9e688db257a8bbb8a9d7a275cde20a2612761e6f69692ede1"
+    },
+    {
+      "phase": "phase_A27_20261024_v1",
+      "path": "unified_project/runs/phase_A27_20261024_v1/code/a27_source_pair_review.py",
+      "bytes": 2325,
+      "sha256": "b836cddc9615490d08f53567010288e1e37844825d9d0a132af4238702a79528"
+    },
+    {
+      "phase": "phase_A28_20261024_v1",
+      "path": "unified_project/runs/phase_A28_20261024_v1/code/audit.py",
+      "bytes": 24638,
+      "sha256": "b385708f54b8248c053a8167f9aeb732bf7ddfdc0bd2e41827c44e0736550cc9"
+    },
+    {
+      "phase": "phase_A28_20261024_v1",
+      "path": "unified_project/runs/phase_A28_20261024_v1/code/geometry.py",
+      "bytes": 3973,
+      "sha256": "8b3036fcc5547a81d263f1c464de8ab5a751e4c7a32a5d6fc42f30453125741b"
+    },
+    {
+      "phase": "phase_A29_20261024_v1",
+      "path": "unified_project/runs/phase_A29_20261024_v1/code/decoder.py",
+      "bytes": 8806,
+      "sha256": "656f7b1c880b62ae2c28a69ef3220163460eb823e6549c21d46c4dbfb4d0d3a4"
+    },
+    {
+      "phase": "phase_A29_20261024_v1",
+      "path": "unified_project/runs/phase_A29_20261024_v1/code/review.py",
+      "bytes": 7515,
+      "sha256": "7754ab39101d0458659a4f9afafcb27b870580c097c71ccf4a7a28d62f495dab"
+    },
+    {
+      "phase": "phase_A29_20261024_v1",
+      "path": "unified_project/runs/phase_A29_20261024_v1/code/run.py",
+      "bytes": 22033,
+      "sha256": "e4ddbf742773e13db954f2e3b27c1f22091989454a303948de94ff2abbe2513a"
+    },
+    {
+      "phase": "phase_A30_20261024_v1",
+      "path": "unified_project/runs/phase_A30_20261024_v1/code/analyse.py",
+      "bytes": 8537,
+      "sha256": "73c6ec11ae9d5ce1a4ee5a85119d39dfac8f97dddab2ad9dc5b74f90af42efa0"
+    },
+    {
+      "phase": "phase_A30_20261024_v1",
+      "path": "unified_project/runs/phase_A30_20261024_v1/code/method.py",
+      "bytes": 5961,
+      "sha256": "56877565740240012ba745475b86f786bf8dd14290f83cccc4774f1b07c8aa80"
+    },
+    {
+      "phase": "phase_A30_20261024_v1",
+      "path": "unified_project/runs/phase_A30_20261024_v1/code/review.py",
+      "bytes": 5697,
+      "sha256": "37fd973e886c113b8ce734b2a178c2ef8482d3a11c3e47bbcd7582f5f49b03db"
+    },
+    {
+      "phase": "phase_A30_20261024_v1",
+      "path": "unified_project/runs/phase_A30_20261024_v1/code/train.py",
+      "bytes": 15570,
+      "sha256": "bbe5cedc07186481677bc046b929677c069a3b83652a9d97c650a8dc30b80a9b"
+    },
+    {
+      "phase": "phase_A31_20261024_v1",
+      "path": "unified_project/runs/phase_A31_20261024_v1/code/audit.py",
+      "bytes": 19129,
+      "sha256": "cb858b6dcc47c9ab0c87b4ca6860f5c0bb5d04e9527804ba6eeae0137b61b2e9"
+    },
+    {
+      "phase": "phase_A31_20261024_v1",
+      "path": "unified_project/runs/phase_A31_20261024_v1/code/finish.py",
+      "bytes": 13593,
+      "sha256": "c921099e739b8fd5da4792c5c34c374588178438373f760aa6224752e288fbf2"
+    },
+    {
+      "phase": "phase_A31_20261024_v1",
+      "path": "unified_project/runs/phase_A31_20261024_v1/code/trace.py",
+      "bytes": 1927,
+      "sha256": "9423c2471bccb2547e283666b90fa0a1ca982c52b6d3c7d77ef83f62adcf9cfd"
+    },
+    {
+      "phase": "phase_A32_20261024_v1",
+      "path": "unified_project/runs/phase_A32_20261024_v1/code/a32_method.py",
+      "bytes": 14051,
+      "sha256": "9a593df9e9f139d3e59d08e195a51d52ea3316f035f1267a79db52020369604e"
+    },
+    {
+      "phase": "phase_A32_20261024_v1",
+      "path": "unified_project/runs/phase_A32_20261024_v1/code/a32_review.py",
+      "bytes": 13688,
+      "sha256": "9c6fb8018dff151ddf1f6e4e9c622b483d74650c6cd17d593fc0f9203a90d704"
+    },
+    {
+      "phase": "phase_A32_20261024_v1",
+      "path": "unified_project/runs/phase_A32_20261024_v1/code/a32_run.py",
+      "bytes": 15495,
+      "sha256": "49ef586e3885aa724d2dce0afd02779aaad88e45e31ef686ad162706e183ee86"
+    },
+    {
+      "phase": "phase_A33_20261024_v1",
+      "path": "unified_project/runs/phase_A33_20261024_v1/code/a33_analysis.py",
+      "bytes": 11472,
+      "sha256": "9838cbc7ba5213d66b0b9ddbe26c957de174d1509aa2b9bfbeeb1be197734699"
+    },
+    {
+      "phase": "phase_A33_20261024_v1",
+      "path": "unified_project/runs/phase_A33_20261024_v1/code/a33_audit.py",
+      "bytes": 18231,
+      "sha256": "26be8c07558f22a2f95c1ffe760b7749ce7bb1b27651fd4aecae74a81d99056f"
+    },
+    {
+      "phase": "phase_A33_20261024_v1",
+      "path": "unified_project/runs/phase_A33_20261024_v1/code/a33_review.py",
+      "bytes": 17526,
+      "sha256": "efa4a881a8bc1cb4d005a41429116308361133818b2575cfd58fd8b5eef44cd7"
+    },
+    {
+      "phase": "phase_A33_20261024_v1",
+      "path": "unified_project/runs/phase_A33_20261024_v1/code/brain_heart_contract.py",
+      "bytes": 18310,
+      "sha256": "2842bd7c5c1724ee8987dbee4e1f50b9a12244f279d2fab04fe04b7d7e9833a6"
+    },
+    {
+      "phase": "phase_A34_20261024_v1",
+      "path": "unified_project/runs/phase_A34_20261024_v1/code/a34_preflight.py",
+      "bytes": 12451,
+      "sha256": "d80488e7f3b3de36a328ed113493343547647c9141b7cb424300825008e5b5e4"
+    },
+    {
+      "phase": "phase_A34_20261024_v1",
+      "path": "unified_project/runs/phase_A34_20261024_v1/code/a34_review.py",
+      "bytes": 11805,
+      "sha256": "fab14cbe0072b10581c49e25ee4171cd5e9e659855f106f128af67002b7fb787"
+    }
+  ]
+}

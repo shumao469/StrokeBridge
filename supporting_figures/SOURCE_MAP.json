@@ -1,0 +1,236 @@
+{
+  "state": "PASS_content_and_source_checks",
+  "copied_figures": 9,
+  "formats": 27,
+  "unchanged_source_files": 27,
+  "new_fits": 0,
+  "data_or_curves_redrawn": false,
+  "changes": "Renumbered output files; one S8 internal reference changed to S3. Other scientific text unchanged.",
+  "mapping": [
+    {
+      "new_number": 1,
+      "new_stem": "SupplementaryFigure1_AF_operating_points",
+      "original_stem": "extended_data/ExtendedData1_AF_operating_points",
+      "purpose": "Historical AF operating points; no new fit or threshold search",
+      "formats": [
+        "svg",
+        "pdf",
+        "png"
+      ],
+      "data_redrawn": false,
+      "internal_reference_changed": false,
+      "source_hashes": {
+        "svg": "9dc9b56d780fb546090aba701fbca0d5fd0e1c7b30451aef6880da613e3fabff",
+        "pdf": "50da0988d8a827c50b32891ecfcedc4fe47c56b4aece752e384e43de2e83f24a",
+        "png": "af756d77b4141c62aebd24e9f7f3b29407387dcdd501680966bad9287764b0e5"
+      },
+      "output_hashes": {
+        "svg": "9dc9b56d780fb546090aba701fbca0d5fd0e1c7b30451aef6880da613e3fabff",
+        "pdf": "50da0988d8a827c50b32891ecfcedc4fe47c56b4aece752e384e43de2e83f24a",
+        "png": "af756d77b4141c62aebd24e9f7f3b29407387dcdd501680966bad9287764b0e5"
+      },
+      "original_sources_unchanged": true,
+      "editable_SVG_text": true
+    },
+    {
+      "new_number": 2,
+      "new_stem": "SupplementaryFigure2_A32_training_decoder",
+      "original_stem": "extended_data/ExtendedData2_A32_training_decoder",
+      "purpose": "Separate fixed-decoder training contrasts from same-checkpoint decoder contrasts",
+      "formats": [
+        "svg",
+        "pdf",
+        "png"
+      ],
+      "data_redrawn": false,
+      "internal_reference_changed": false,
+      "source_hashes": {
+        "svg": "93bbd7867109c0f1b6d7622d68904033a75ed1ef92924c042f0209475f6c85db",
+        "pdf": "5c57880f168b5bc98be46cbe2ceda9e58b13ab7c62472b242a167fcf724ef728",
+        "png": "821cb73c87a1793614803c9ad071bdecc3f4387a51d76ffedec190a7fff7dab6"
+      },
+      "output_hashes": {
+        "svg": "93bbd7867109c0f1b6d7622d68904033a75ed1ef92924c042f0209475f6c85db",
+        "pdf": "5c57880f168b5bc98be46cbe2ceda9e58b13ab7c62472b242a167fcf724ef728",
+        "png": "821cb73c87a1793614803c9ad071bdecc3f4387a51d76ffedec190a7fff7dab6"
+      },
+      "original_sources_unchanged": true,
+      "editable_SVG_text": true
+    },
+    {
+      "new_number": 3,
+      "new_stem": "SupplementaryFigure3_real_waveform_failure",
+      "original_stem": "extended_data/ExtendedData3_real_waveform_failure",
+      "purpose": "Authentic public data/130 calibration-case mechanism; not unbiased test accuracy",
+      "formats": [
+        "svg",
+        "pdf",
+        "png"
+      ],
+      "data_redrawn": false,
+      "internal_reference_changed": false,
+      "source_hashes": {
+        "svg": "879924ef2795f4d7f5068b2a075237a727dbc005f26087c5a74fd1099f47bbc8",
+        "pdf": "874b38e8fb9160915943db4f33aeb7762573766d13a1b2d0a583d4b9ea8422b6",
+        "png": "854cdc22b749fd92f2426725b57cfb7a794e2127a46760e19effc5889916ca69"
+      },
+      "output_hashes": {
+        "svg": "879924ef2795f4d7f5068b2a075237a727dbc005f26087c5a74fd1099f47bbc8",
+        "pdf": "874b38e8fb9160915943db4f33aeb7762573766d13a1b2d0a583d4b9ea8422b6",
+        "png": "854cdc22b749fd92f2426725b57cfb7a794e2127a46760e19effc5889916ca69"
+      },
+      "original_sources_unchanged": true,
+      "editable_SVG_text": true
+    },
+    {
+      "new_number": 4,
+      "new_stem": "SupplementaryFigure4_admission_scope_and_versions",
+      "original_stem": "extended_data/ExtendedData4_admission_scope_and_versions",
+      "purpose": "Unresolved source admission/training exposure, actual budgets, versions and demo scope",
+      "formats": [
+        "svg",
+        "pdf",
+        "png"
+      ],
+      "data_redrawn": false,
+      "internal_reference_changed": false,
+      "source_hashes": {
+        "svg": "efe93b36984b12fb394279c8bcb0a31a13f733e0ef72dd034cf86fd2e6d65017",
+        "pdf": "3c19563a5a81c0c537a786a37ab42fa7084253b479952de4adc9e98a098ac789",
+        "png": "ef2711cc1aebe4e08713855fc984e8364788ef588dadb396b81c19fa12113dc0"
+      },
+      "output_hashes": {
+        "svg": "efe93b36984b12fb394279c8bcb0a31a13f733e0ef72dd034cf86fd2e6d65017",
+        "pdf": "3c19563a5a81c0c537a786a37ab42fa7084253b479952de4adc9e98a098ac789",
+        "png": "ef2711cc1aebe4e08713855fc984e8364788ef588dadb396b81c19fa12113dc0"
+      },
+      "original_sources_unchanged": true,
+      "editable_SVG_text": true
+    },
+    {
+      "new_number": 5,
+      "new_stem": "SupplementaryFigure5_historical_AF_intervals",
+      "original_stem": "supplementary_figures/SupplementaryFigure1_historical_AF_intervals",
+      "purpose": "Preserved historical AF intervals; not independent new validation",
+      "formats": [
+        "svg",
+        "pdf",
+        "png"
+      ],
+      "data_redrawn": false,
+      "internal_reference_changed": false,
+      "source_hashes": {
+        "svg": "f293188f5ab0c2c5475dcaea25cb4ef454dda86dd68fd7cf88d459bdad9d69e0",
+        "pdf": "42dd11471cea68e3d011ec74b1966735a6355fa1d335378952edac7daede68ec",
+        "png": "57e869fbf831bac90e5ae42ae41c8c8b35d17fa27ef745e25a8266ce45b7317a"
+      },
+      "output_hashes": {
+        "svg": "f293188f5ab0c2c5475dcaea25cb4ef454dda86dd68fd7cf88d459bdad9d69e0",
+        "pdf": "42dd11471cea68e3d011ec74b1966735a6355fa1d335378952edac7daede68ec",
+        "png": "57e869fbf831bac90e5ae42ae41c8c8b35d17fa27ef745e25a8266ce45b7317a"
+      },
+      "original_sources_unchanged": true,
+      "editable_SVG_text": true
+    },
+    {
+      "new_number": 6,
+      "new_stem": "SupplementaryFigure6_historical_scope",
+      "original_stem": "supplementary_figures/SupplementaryFigure2_historical_scope",
+      "purpose": "Preserved historical cohort/role and evidence-scope diagnostics",
+      "formats": [
+        "svg",
+        "pdf",
+        "png"
+      ],
+      "data_redrawn": false,
+      "internal_reference_changed": false,
+      "source_hashes": {
+        "svg": "778be731a1499408c5c10af4805fc07f8c95c9a7b9f36ed531b256e38160e837",
+        "pdf": "42c3de6ddc962099e1e5952631329998962d81cf58bc7bb9d86e1c4a0bbdc491",
+        "png": "2660724f0944bda43c67cabd2cd4b68f82a6ab98b107444ebbd58fdc3a4f443f"
+      },
+      "output_hashes": {
+        "svg": "778be731a1499408c5c10af4805fc07f8c95c9a7b9f36ed531b256e38160e837",
+        "pdf": "42c3de6ddc962099e1e5952631329998962d81cf58bc7bb9d86e1c4a0bbdc491",
+        "png": "2660724f0944bda43c67cabd2cd4b68f82a6ab98b107444ebbd58fdc3a4f443f"
+      },
+      "original_sources_unchanged": true,
+      "editable_SVG_text": true
+    },
+    {
+      "new_number": 7,
+      "new_stem": "SupplementaryFigure7_A32_patient_supervision_and_reliability",
+      "original_stem": "figures/Figure3_patient_supervision_and_reliability",
+      "purpose": "Full A32 method, paired performance, calibration width and total-rejection negative result",
+      "formats": [
+        "svg",
+        "pdf",
+        "png"
+      ],
+      "data_redrawn": false,
+      "internal_reference_changed": false,
+      "source_hashes": {
+        "svg": "dc45d801c122e09c27c2dbb82a4f4827a67a655866193235a353efb9750f735d",
+        "pdf": "cac3786ac9fc9921a4378386d193b5b3750503d7fa84c9b5e23c1b865078e607",
+        "png": "663cdc766377454ab67c22426a961caa4c82b7329e677fe2bd9687f03978083a"
+      },
+      "output_hashes": {
+        "svg": "dc45d801c122e09c27c2dbb82a4f4827a67a655866193235a353efb9750f735d",
+        "pdf": "cac3786ac9fc9921a4378386d193b5b3750503d7fa84c9b5e23c1b865078e607",
+        "png": "663cdc766377454ab67c22426a961caa4c82b7329e677fe2bd9687f03978083a"
+      },
+      "original_sources_unchanged": true,
+      "editable_SVG_text": true
+    },
+    {
+      "new_number": 8,
+      "new_stem": "SupplementaryFigure8_A33_decoder_mechanism_and_ceilings",
+      "original_stem": "figures/Figure4_decoder_mechanism_and_ceilings",
+      "purpose": "Full A33 factorial, failure decomposition, capacity ceilings and failed reporting coverage",
+      "formats": [
+        "svg",
+        "pdf",
+        "png"
+      ],
+      "data_redrawn": false,
+      "internal_reference_changed": true,
+      "source_hashes": {
+        "svg": "bfe13aa94a8bb40530a68ab79327b687a85573f4ebd14d4d5cd955d5086cf064",
+        "pdf": "f92308f98f63e7d1b8cd67dc37172826b01d86982369cd213a491f68577b99ad",
+        "png": "82ebd0308f91709ca8d7da25aeab0c56c4c6d9cb9332e6f08dec050218f3b597"
+      },
+      "output_hashes": {
+        "svg": "3bfa8dfc8954235a432545954f74555fde04383a6c0d60cb19dc68b4c283f14d",
+        "pdf": "f5911f8a6bc48135acbb8cd3f6180dace3b8c0bf2cfddd0e5900f2027b1c4f1f",
+        "png": "d483b2d83978e98ebf17be134633111ba99a0e53896d46f7dd8868bb16aeda8a"
+      },
+      "original_sources_unchanged": true,
+      "editable_SVG_text": true
+    },
+    {
+      "new_number": 9,
+      "new_stem": "SupplementaryFigure9_A34_admission_and_clinical_translation",
+      "original_stem": "figures/Figure5_admission_and_clinical_translation",
+      "purpose": "Full A34 zero-fit scientific nonadmission and distinct future-risk evidence requirements",
+      "formats": [
+        "svg",
+        "pdf",
+        "png"
+      ],
+      "data_redrawn": false,
+      "internal_reference_changed": false,
+      "source_hashes": {
+        "svg": "02c02881bd0967477c6566c46407c9c4133842bee6c7b40187c5033a0b660594",
+        "pdf": "a69e998112c5fa358330505de0500f33c375e1754d7d5d110ff44d701c0a129a",
+        "png": "3c14277a65dca980f9ed633ebcd87d69564ad3d254123e7644463ce21b387d5c"
+      },
+      "output_hashes": {
+        "svg": "02c02881bd0967477c6566c46407c9c4133842bee6c7b40187c5033a0b660594",
+        "pdf": "a69e998112c5fa358330505de0500f33c375e1754d7d5d110ff44d701c0a129a",
+        "png": "3c14277a65dca980f9ed633ebcd87d69564ad3d254123e7644463ce21b387d5c"
+      },
+      "original_sources_unchanged": true,
+      "editable_SVG_text": true
+    }
+  ]
+}

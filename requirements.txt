@@ -1,0 +1,5 @@
+# UI dependency pinned to a verified PyPI release, not an environment lock.
+# Core CLI/tests use only Python >=3.10 standard library.
+# This dependency was not installed in the research environment at closeout.
+streamlit==1.50.0
+

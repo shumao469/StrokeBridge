@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-25",
+  "scope": "Aggregate numbers projected from original source JSON; no patient-level rows packaged.",
+  "files": [
+    {
+      "path": "unified_project/runs/phase_A32_20261024_v1/completion.json",
+      "bytes": 607,
+      "sha256": "d06fdf59fca15fafc2bc0679595742c4c3a631c002e227ef585a82f75ee87822"
+    },
+    {
+      "path": "unified_project/runs/phase_A32_20261024_v1/analysis/summary.json",
+      "bytes": 57728,
+      "sha256": "034f03aff1656b9f1491bce74a3b575e006fa11a30ffae56883b4e5966bcae1f"
+    },
+    {
+      "path": "unified_project/runs/phase_A32_20261024_v1/analysis/gates.json",
+      "bytes": 982,
+      "sha256": "a035a6b62176b4e9bce043fb2efeeb205d9a74014ab53fc990a992edee3efb00"
+    },
+    {
+      "path": "unified_project/runs/phase_A33_20261024_v1/completion.json",
+      "bytes": 590,
+      "sha256": "7bb230723e9afcb7369ef56e843092fe63baf27306252edf7d39f7d11778562f"
+    },
+    {
+      "path": "unified_project/runs/phase_A33_20261024_v1/analysis/summary.json",
+      "bytes": 170730,
+      "sha256": "fadae68036798a6e5294caca6add12e3dc483eff98fc915dfc6e3b4ee02f8a54"
+    },
+    {
+      "path": "unified_project/runs/phase_A33_20261024_v1/analysis/decision.json",
+      "bytes": 678,
+      "sha256": "e464bc9b1398992880ed85eef2acfd98a19c32a8d7112a9574284ce96b0c2862"
+    },
+    {
+      "path": "unified_project/runs/phase_A34_20261024_v1/completion.json",
+      "bytes": 624,
+      "sha256": "74365be9d5e9a4fd747a120a41ea592c23e2d24c704fc519a495ec7e5a112ced"
+    },
+    {
+      "path": "unified_project/runs/phase_A34_20261024_v1/analysis/feasibility.json",
+      "bytes": 1582,
+      "sha256": "aa62fe9ef23432e094cd7000dfb35abeaa5e77fa79773b483add5bdbfdffc272"
+    },
+    {
+      "path": "unified_project/runs/phase_A34_20261024_v1/post_review/contract_review.json",
+      "bytes": 1461,
+      "sha256": "cd193e423d6e6afb15317b73879062a33d99f446fc70ed42bc24eac5ade2f8b7"
+    }
+  ]
+}

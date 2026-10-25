@@ -6,6 +6,10 @@ StrokeBridge connects ECG representation research with an auditable route toward
 
 The repository combines reproducible ECG evidence, heartbeat-resolved measurement audits, a transparent method-development history and an aggregate-only research interface. It does not provide individual clinical predictions.
 
+![StrokeBridge evidence-aware brain–heart framework](figures/Figure1_StrokeBridge_framework.png)
+
+The heart and brain are attributed educational anatomical illustrations, not patient images or clinical validation. The architecture and evidence gates are editable vectors; this anatomy-containing figure is a hybrid vector/raster composition. See [asset attribution](assets/ATTRIBUTION.txt).
+
 ## What is new here?
 
 1. **Separate what the model uses.** The AF research workflow distinguishes demographic/RR information, candidate visibility/count/confidence, candidate morphology and frozen ECG representations instead of treating every increase in discrimination as evidence of atrial biology.
@@ -66,7 +70,7 @@ python -m venv .venv
 
 On Windows, use `.venv\Scripts\python.exe`. `requirements.txt` pins the direct UI dependency, not a fully resolved environment lock. A real cloud-demo URL is added only after a successful deployment. See [deployment boundaries](docs/DEPLOYMENT.md).
 
-## Evidence snapshot and important negative results
+## Evidence snapshot and validation scope
 
 This is a completed research closeout, **not a clinical-performance release**:
 
@@ -76,7 +80,23 @@ This is a completed research closeout, **not a clinical-performance release**:
 
 The two seeds evaluate the same 200 patients, not two independent cohorts. The joint-coverage positive denominator is 176 patients and spans all reference P waves in leads II and V1. Partial-reference precision is not a clinical no-P validation. Stable morphology-only AF gains, independent unseen-data generalization and clinical future-risk prediction remain unestablished.
 
+The full negative-result trail is retained in [Supplementary Figure 7: A32](supporting_figures/SupplementaryFigure7_A32_patient_supervision_and_reliability.pdf), [Supplementary Figure 8: A33](supporting_figures/SupplementaryFigure8_A33_decoder_mechanism_and_ceilings.pdf) and [Supplementary Figure 9: A34](supporting_figures/SupplementaryFigure9_A34_admission_and_clinical_translation.pdf). The real public waveform mechanism example is [Supplementary Figure 3](supporting_figures/SupplementaryFigure3_real_waveform_failure.pdf); it is a selected calibration illustration, not an unbiased performance sample.
+
 SPH remains quarantined. RDB was not scored as an independent V1/no-P reference. Hospital and expert-reference branches remain pending; no new hospital records are included here.
+
+## Publication figures and source data
+
+Four main figures contain 25 panels (6 + 7 + 6 + 6), with editable-text SVG, vector PDF and high-resolution PNG versions. Exact and display curve coordinates are separated; reported metrics are not computed from smoothed display curves. The [main legends](figures/MAIN_FIGURE_LEGENDS.txt) and [supporting legends](supporting_figures/LEGENDS.txt) define each panel's measured, schematic or diagnostic-bound status.
+
+![AF inference and observation evidence](figures/Figure2_AF_inference_and_observation.png)
+
+- [Figure 1: Framework](figures/Figure1_StrokeBridge_framework.pdf)
+- [Figure 2: AF inference and observation](figures/Figure2_AF_inference_and_observation.pdf)
+- [Figure 3: Structured measurement and missingness](figures/Figure3_structured_measurement_and_missingness.pdf)
+- [Figure 4: Information validity and patient evidence](figures/Figure4_information_validity_and_patient_evidence.pdf)
+- [Aggregate source-data tables](source_data/) and [figure release verification](figures/FIGURE_RELEASE_VERIFICATION.json)
+
+These figures visualize the current research findings and planned validation logic. They do not imply a patient-facing clinical service or a validated future-stroke model.
 
 ## Repository map
 
@@ -120,8 +140,9 @@ No raw ECG files, hospital documents, patient-level output tables, model weights
 
 ## 中文简介
 
-脑心桥以“先有可信证据，再有临床风险模型”为主线。当前提供当下AF识别研究的证据分解、同心搏/唯一框约束、患者级边界可靠性审计及训练前可达性准入检查；不是已完成的卒中风险预测器。历史失败、负向结果和停止规则均保留，不靠删患者、放宽门槛或隐去负结果包装成功。未来脑心风险分支仍需同患者脑/心/临床资料与带日期的事件、死亡和删失证据。
+脑心桥围绕可验证的心房信息，连接当下AF识别、同心搏测量、患者级可靠性审计与脑心风险研究。当前版本提供可复现的技术实现、信息价值比较和训练前可达性准入检查；完整保留开发轨迹、验证结果及停止规则。未来脑心风险分支仍需同患者脑/心/临床资料与带日期的事件、死亡和删失证据，当前不输出个人卒中风险。
 
 ## Rights and citation
 
 See [NOTICE.md](NOTICE.md). No third-party data/model rights are transferred, and no MIT or other permissive licence is assigned without author/institution approval. Formal author metadata, institutional rights and any publication DOI must be verified before adding a final citation. The working release identifier is **StrokeBridge research closeout, 2026-10-25**.
+
