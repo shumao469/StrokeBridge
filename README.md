@@ -70,31 +70,16 @@ On Windows, use `.venv\Scripts\python.exe`. `requirements.txt` pins the direct U
 
 ## Evidence snapshot and validation scope
 
-This is a completed research closeout, **not a clinical-performance release**:
+This is a completed research closeout:
 
 - **A32:** patient-complete multibeat supervision was evaluated with paired comparators: 20 fits, 160 epochs. Benefits were inconsistent across the two seeds. Under W1, both arms and seeds rejected all final measurements. Patient joint coverage was 0/176; precision was undefined, not zero.
 - **A33:** a zero-fit decoder factorial audit replayed 20 caches. Better candidate reachability did not establish useful reporting coverage, and no new decoder policy was promoted.
 - **A34:** endpoint-only training was **not admitted** and used 0 fits. A frozen-support/calibration necessary condition bounded one seed's optimistic patient coverage at 79.55%, below the 95% target. This bound is not measured model performance; the other seed's 100% optimistic bound is not a 100% result.
 
-The two seeds evaluate the same 200 patients, not two independent cohorts. The joint-coverage positive denominator is 176 patients and spans all reference P waves in leads II and V1. Partial-reference precision is not a clinical no-P validation. Stable morphology-only AF gains, independent unseen-data generalization and clinical future-risk prediction remain unestablished.
-
-The full validation trail is retained in [Supplementary Figure 7: A32](supporting_figures/SupplementaryFigure7_A32_patient_supervision_and_reliability.svg), [Supplementary Figure 8: A33](supporting_figures/SupplementaryFigure8_A33_decoder_mechanism_and_ceilings.svg) and [Supplementary Figure 9: A34](supporting_figures/SupplementaryFigure9_A34_admission_and_clinical_translation.svg). The real public waveform mechanism example is [Supplementary Figure 3](supporting_figures/SupplementaryFigure3_real_waveform_failure.svg); it is a selected calibration illustration, not an unbiased performance sample.
+The two seeds evaluate the same 200 patients. The joint-coverage positive denominator is 176 patients and spans all reference P waves in leads II and V1. Partial-reference precision is not a clinical no-P validation. Stable morphology-only AF gains, independent unseen-data generalization and clinical future-risk prediction remain unestablished.
 
 SPH remains quarantined. RDB was not scored as an independent V1/no-P reference. Hospital and expert-reference branches remain pending; no new hospital records are included here.
 
-## Publication figures and source data
-
-Four main figures contain 25 panels (6 + 7 + 6 + 6). All four editable-text SVGs and all nine supporting SVGs are available here. The local publication handoff also contains vector PDF, high-resolution PNG and grouped editable PPTX masters; only successfully uploaded binary attachments are linked below. Exact and display curve coordinates are separated; reported metrics are not computed from smoothed display curves. The [main legends](figures/MAIN_FIGURE_LEGENDS.txt) and [supporting legends](supporting_figures/LEGENDS.txt) define each panel's measured, schematic or diagnostic-bound status.
-
-![AF inference and observation evidence](figures/Figure2_AF_inference_and_observation.svg)
-
-- [Figure 1: Framework](figures/Figure1_StrokeBridge_framework.pdf)
-- [Figure 2: AF inference and observation — editable SVG](figures/Figure2_AF_inference_and_observation.svg)
-- [Figure 3: Structured measurement and missingness](figures/Figure3_structured_measurement_and_missingness.pdf)
-- [Figure 4: Information validity and patient evidence — editable SVG](figures/Figure4_information_validity_and_patient_evidence.svg)
-- [Aggregate source-data tables](source_data/) and [figure release verification](figures/FIGURE_RELEASE_VERIFICATION.json)
-
-These figures visualize the current research findings and planned validation logic. They do not imply a patient-facing clinical service or a validated future-stroke model.
 
 ## Repository map
 
