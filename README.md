@@ -6,8 +6,6 @@ StrokeBridge connects ECG representation research with an auditable route toward
 
 The repository combines reproducible ECG evidence, heartbeat-resolved measurement audits, a transparent method-development history and an aggregate-only research interface. It does not provide individual clinical predictions.
 
-![StrokeBridge evidence-aware brain–heart framework](figures/Figure1_StrokeBridge_framework.svg)
-
 The heart and brain are attributed educational anatomical illustrations, not patient images or clinical validation. The architecture and evidence gates are editable vectors; this anatomy-containing figure is a hybrid vector/raster composition. See [asset attribution](assets/ATTRIBUTION.txt).
 
 ## What is new here?
